@@ -41,8 +41,9 @@ export const Input = styled.input`
   caret-color:${theme.blueColor};
   color:${theme.blueColor};
   transition:all .5s;
+  font-size:1.5rem;
   ::placeholder{
-    font-size:1.2rem;
+    font-size:1.5rem;
     color:${theme.colorLogo};
   }
   :hover{
@@ -56,7 +57,7 @@ export const Button = styled.input`
   padding:.9rem .9rem;
   border:none;
   outline: none;
-  font-size:.9rem;
+  font-size:1.5rem;
   cursor: pointer;
   transition: all .6s;
   box-shadow:${theme.boxShadow};

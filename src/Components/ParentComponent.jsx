@@ -65,7 +65,7 @@ export default function ParentComponent() {
             <FontAwesomeIcon
               icon={faTrashCan}
               color={theme.colorLogo}
-              fontSize={'1rem'}
+              fontSize={'1.7rem'}
               className="icon"
             />
           </ButtonRemove>
@@ -88,7 +88,7 @@ export default function ParentComponent() {
           <FontAwesomeIcon
             icon={faGlobe}
             color={theme.blueColor}
-            fontSize={'1rem'}
+            fontSize={'1.7rem'}
             className="icon"
           />
         </Button>
@@ -96,7 +96,7 @@ export default function ParentComponent() {
           <FontAwesomeIcon
             icon={faFileWaveform}
             color={theme.blueColor}
-            fontSize={'1.2rem'}
+            fontSize={'1.7rem'}
             className="icon"
           />
         </Button>
@@ -104,7 +104,7 @@ export default function ParentComponent() {
           <FontAwesomeIcon
             icon={faListCheck}
             color={theme.blueColor}
-            fontSize={'1rem'}
+            fontSize={'1.7rem'}
             className="icon"
           />
         </Button>
@@ -112,7 +112,7 @@ export default function ParentComponent() {
           <FontAwesomeIcon
             icon={faSliders}
             color={theme.blueColor}
-            fontSize={'1rem'}
+            fontSize={'1.7rem'}
             className="icon"
           />
         </Button>
